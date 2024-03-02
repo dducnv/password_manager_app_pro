@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:password_manage_app/core/utils/dialog_content.dart';
+import 'package:password_manage_app_pro/core/utils/dialog_content.dart';
 
 extension WidgetExt on Widget {
   void showCustomDialog(BuildContext context, DialogContent dialogContent) {

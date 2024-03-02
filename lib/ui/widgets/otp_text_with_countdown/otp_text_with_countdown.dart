@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:password_manage_app/core/services/otp_generator.dart';
-import 'package:password_manage_app/core/utils/refetch_totp.dart';
-import 'package:password_manage_app/ui/widgets/widgets.dart';
+import 'package:password_manage_app_pro/core/services/otp_generator.dart';
+import 'package:password_manage_app_pro/core/utils/refetch_totp.dart';
+import 'package:password_manage_app_pro/ui/widgets/widgets.dart';
 import 'package:timezone/timezone.dart' as timezone;
 
 class OtpTextWithCountdown extends StatefulWidget {

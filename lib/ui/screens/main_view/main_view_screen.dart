@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-import 'package:password_manage_app/ui/base/base.dart';
-import 'package:password_manage_app/ui/screens/main_view/main_view_model.dart';
-import 'package:password_manage_app/ui/screens/screen.dart';
+import 'package:password_manage_app_pro/ui/base/base.dart';
+import 'package:password_manage_app_pro/ui/screens/main_view/main_view_model.dart';
+import 'package:password_manage_app_pro/ui/screens/screen.dart';
 
 class MainView extends StatefulWidget {
   const MainView({Key? key}) : super(key: key);

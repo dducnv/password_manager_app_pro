@@ -1,4 +1,4 @@
-import 'package:password_manage_app/core/domains/models/models.dart';
+import 'package:password_manage_app_pro/core/domains/models/models.dart';
 
 class CategoryModel {
   final int? id;

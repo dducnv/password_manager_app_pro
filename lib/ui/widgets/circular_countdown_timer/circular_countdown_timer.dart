@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:password_manage_app/ui/widgets/widgets.dart';
+import 'package:password_manage_app_pro/ui/widgets/widgets.dart';
 
 export 'countdown_text_format.dart';
 

@@ -3,7 +3,7 @@ import 'dart:io';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:logging/logging.dart';
-import 'package:password_manage_app/core/services/otp_generator.dart';
+import 'package:password_manage_app_pro/core/services/otp_generator.dart';
 import 'package:qr_code_scanner/qr_code_scanner.dart';
 
 class QrcodeScaner extends StatefulWidget {

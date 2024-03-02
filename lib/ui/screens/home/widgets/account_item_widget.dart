@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:password_manage_app/core/domains/models/models.dart';
-import 'package:password_manage_app/ui/route/route.dart';
+import 'package:password_manage_app_pro/core/domains/models/models.dart';
+import 'package:password_manage_app_pro/ui/route/route.dart';
 
 class AccountItemWidget extends StatelessWidget {
   final AccountModel accountModel;

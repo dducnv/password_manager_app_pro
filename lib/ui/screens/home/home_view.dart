@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:password_manage_app/core/core.dart';
-import 'package:password_manage_app/core/database/data_seeder.dart';
-import 'package:password_manage_app/core/domains/models/models.dart';
-import 'package:password_manage_app/ui/base/base.dart';
-import 'package:password_manage_app/ui/route/route.dart';
-import 'package:password_manage_app/ui/screens/home/widgets/account_item_widget.dart';
-import 'package:password_manage_app/ui/screens/screen.dart';
-import 'package:password_manage_app/ui/widgets/widgets.dart';
+import 'package:password_manage_app_pro/core/core.dart';
+import 'package:password_manage_app_pro/core/database/data_seeder.dart';
+import 'package:password_manage_app_pro/core/domains/models/models.dart';
+import 'package:password_manage_app_pro/ui/base/base.dart';
+import 'package:password_manage_app_pro/ui/route/route.dart';
+import 'package:password_manage_app_pro/ui/screens/home/widgets/account_item_widget.dart';
+import 'package:password_manage_app_pro/ui/screens/screen.dart';
+import 'package:password_manage_app_pro/ui/widgets/widgets.dart';
 
 class HomeView extends StatelessWidget {
   const HomeView({Key? key}) : super(key: key);

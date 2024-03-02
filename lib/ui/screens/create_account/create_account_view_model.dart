@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:password_manage_app/core/core.dart';
-import 'package:password_manage_app/core/utils/utils.dart';
-import 'package:password_manage_app/ui/base/base.dart';
-import 'package:password_manage_app/ui/widgets/widgets.dart';
+import 'package:password_manage_app_pro/core/core.dart';
+import 'package:password_manage_app_pro/core/utils/utils.dart';
+import 'package:password_manage_app_pro/ui/base/base.dart';
+import 'package:password_manage_app_pro/ui/widgets/widgets.dart';
 
 class CreateAccountViewModel extends BaseViewModel {
   final TextEditingController txtTitle = TextEditingController();

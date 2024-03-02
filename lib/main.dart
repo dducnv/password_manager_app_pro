@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get_it/get_it.dart';
 import 'package:easy_localization/easy_localization.dart';
-import 'package:password_manage_app/core/core.dart';
-import 'package:password_manage_app/core/service_locator/service_locator.dart';
-import 'package:password_manage_app/ui/route/route.dart';
+import 'package:password_manage_app_pro/core/core.dart';
+import 'package:password_manage_app_pro/core/service_locator/service_locator.dart';
+import 'package:password_manage_app_pro/ui/route/route.dart';
 import 'package:provider/provider.dart';
 import 'package:timezone/data/latest.dart' as timezone;
 

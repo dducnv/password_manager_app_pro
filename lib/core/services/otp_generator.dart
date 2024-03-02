@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'dart:math';
 import 'dart:typed_data';
-import 'package:password_manage_app/core/utils/base32.dart';
+import 'package:password_manage_app_pro/core/utils/base32.dart';
 import 'package:crypto/crypto.dart';
 import 'package:logging/logging.dart';
 

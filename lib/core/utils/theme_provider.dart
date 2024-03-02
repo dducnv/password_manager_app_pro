@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:password_manage_app/core/core.dart';
-import 'package:password_manage_app/core/utils/global_keys.dart';
-import 'package:password_manage_app/main.dart';
+import 'package:password_manage_app_pro/core/core.dart';
+import 'package:password_manage_app_pro/core/utils/global_keys.dart';
+import 'package:password_manage_app_pro/main.dart';
 import 'package:provider/provider.dart';
 
 class ThemeProvider with ChangeNotifier {

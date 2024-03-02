@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:password_manage_app/ui/base/base.dart';
-import 'package:password_manage_app/ui/screens/screen.dart';
+import 'package:password_manage_app_pro/ui/base/base.dart';
+import 'package:password_manage_app_pro/ui/screens/screen.dart';
 
 class PasswordGeneratorView extends StatelessWidget {
   const PasswordGeneratorView({Key? key}) : super(key: key);

@@ -1,10 +1,10 @@
-import 'package:password_manage_app/main.dart';
-import 'package:password_manage_app/ui/screens/create_account/create_account.dart';
-import 'package:password_manage_app/ui/screens/details_account/details_account.dart';
-import 'package:password_manage_app/ui/screens/main_view/main_view_model.dart';
-import 'package:password_manage_app/ui/screens/home/home.dart';
-import 'package:password_manage_app/ui/screens/password_generator/password_generator.dart';
-import 'package:password_manage_app/ui/screens/setting/setting.dart';
+import 'package:password_manage_app_pro/main.dart';
+import 'package:password_manage_app_pro/ui/screens/create_account/create_account.dart';
+import 'package:password_manage_app_pro/ui/screens/details_account/details_account.dart';
+import 'package:password_manage_app_pro/ui/screens/main_view/main_view_model.dart';
+import 'package:password_manage_app_pro/ui/screens/home/home.dart';
+import 'package:password_manage_app_pro/ui/screens/password_generator/password_generator.dart';
+import 'package:password_manage_app_pro/ui/screens/setting/setting.dart';
 
 import '../../ui/screens/create_category/create_category.dart';
 

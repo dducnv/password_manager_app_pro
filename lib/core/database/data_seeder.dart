@@ -1,5 +1,5 @@
-import 'package:password_manage_app/core/domains/models/category_model.dart';
-import 'package:password_manage_app/core/domains/models/models.dart';
+import 'package:password_manage_app_pro/core/domains/models/category_model.dart';
+import 'package:password_manage_app_pro/core/domains/models/models.dart';
 
 List<CategoryModel> categories = [
   CategoryModel(id: 1, name: 'Social', accounts: [

@@ -1,7 +1,7 @@
 import 'dart:math' as math;
 
 import 'package:flutter/material.dart';
-import 'package:password_manage_app/ui/widgets/floating_button_menu/floating_button_menu.dart';
+import 'package:password_manage_app_pro/ui/widgets/floating_button_menu/floating_button_menu.dart';
 
 class CircularFloatingButtonMenu extends StatefulWidget {
   /// use global key to control animation anywhere in the code

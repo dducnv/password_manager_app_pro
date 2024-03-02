@@ -1,8 +1,8 @@
 import 'dart:io';
 
 import 'package:flutter/cupertino.dart';
-import 'package:password_manage_app/ui/route/route.dart';
-import 'package:password_manage_app/ui/screens/screen.dart';
+import 'package:password_manage_app_pro/ui/route/route.dart';
+import 'package:password_manage_app_pro/ui/screens/screen.dart';
 
 class AppGenerateRoute {
   static Route<dynamic> generateRoute(RouteSettings settings) {

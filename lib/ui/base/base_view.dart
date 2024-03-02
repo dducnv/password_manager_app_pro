@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-import 'package:password_manage_app/main.dart';
-import 'package:password_manage_app/ui/base/base_view_model.dart';
+import 'package:password_manage_app_pro/main.dart';
+import 'package:password_manage_app_pro/ui/base/base_view_model.dart';
 
 class BaseView<T extends BaseViewModel> extends StatefulWidget {
   final Widget Function(BuildContext context, T viewModel, Widget? child)

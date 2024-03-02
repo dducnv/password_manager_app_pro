@@ -1,5 +1,5 @@
 import 'package:flutter/services.dart';
-import 'package:password_manage_app/core/core.dart';
+import 'package:password_manage_app_pro/core/core.dart';
 
 // ignore: camel_case_types
 class base32 {

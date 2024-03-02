@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:password_manage_app/core/core.dart';
-import 'package:password_manage_app/ui/base/base.dart';
-import 'package:password_manage_app/ui/screens/screen.dart';
-import 'package:password_manage_app/ui/screens/setting/widgets/change_lang_widget.dart';
-import 'package:password_manage_app/ui/screens/setting/widgets/set_theme_mode_widget.dart';
+import 'package:password_manage_app_pro/core/core.dart';
+import 'package:password_manage_app_pro/ui/base/base.dart';
+import 'package:password_manage_app_pro/ui/screens/screen.dart';
+import 'package:password_manage_app_pro/ui/screens/setting/widgets/change_lang_widget.dart';
+import 'package:password_manage_app_pro/ui/screens/setting/widgets/set_theme_mode_widget.dart';
 
 class SettingView extends StatefulWidget {
   const SettingView({Key? key}) : super(key: key);

@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:password_manage_app/core/services/otp_generator.dart';
-import 'package:password_manage_app/ui/base/base.dart';
-import 'package:password_manage_app/ui/route/route.dart';
-import 'package:password_manage_app/ui/screens/create_account/components/create_account_components.dart';
-import 'package:password_manage_app/ui/screens/screen.dart';
-import 'package:password_manage_app/ui/widgets/widgets.dart';
+import 'package:password_manage_app_pro/core/services/otp_generator.dart';
+import 'package:password_manage_app_pro/ui/base/base.dart';
+import 'package:password_manage_app_pro/ui/route/route.dart';
+import 'package:password_manage_app_pro/ui/screens/create_account/components/create_account_components.dart';
+import 'package:password_manage_app_pro/ui/screens/screen.dart';
+import 'package:password_manage_app_pro/ui/widgets/widgets.dart';
 
 class CreateAccountView extends StatefulWidget {
   const CreateAccountView({Key? key}) : super(key: key);

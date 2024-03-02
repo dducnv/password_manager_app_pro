@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:password_manage_app/core/core.dart';
-import 'package:password_manage_app/core/extensions/extensions.dart';
-import 'package:password_manage_app/core/utils/dialog_content.dart';
+import 'package:password_manage_app_pro/core/core.dart';
+import 'package:password_manage_app_pro/core/extensions/extensions.dart';
+import 'package:password_manage_app_pro/core/utils/dialog_content.dart';
 
 class BaseViewModel extends ChangeNotifier {
   State? widgetState;

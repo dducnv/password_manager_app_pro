@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:password_manage_app/ui/base/base_view_model.dart';
+import 'package:password_manage_app_pro/ui/base/base_view_model.dart';
 
 class MainViewModel extends BaseViewModel {
   final pageViewController = PageController(

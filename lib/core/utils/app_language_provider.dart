@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:password_manage_app/core/utils/utils.dart';
+import 'package:password_manage_app_pro/core/utils/utils.dart';
 
 class AppLanguageProvider extends ChangeNotifier {
   Locale _appLocale = const Locale("en");

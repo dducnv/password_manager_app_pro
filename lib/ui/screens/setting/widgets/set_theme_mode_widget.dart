@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:password_manage_app/core/utils/utils.dart';
-import 'package:password_manage_app/ui/widgets/widgets.dart';
+import 'package:password_manage_app_pro/core/utils/utils.dart';
+import 'package:password_manage_app_pro/ui/widgets/widgets.dart';
 import 'package:provider/provider.dart';
 
 class SetThemeModeWidget extends StatelessWidget {

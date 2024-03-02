@@ -1,6 +1,6 @@
 {
-    "name": "password_manage_app",
-    "short_name": "password_manage_app",
+    "name": "password_manage_app_pro",
+    "short_name": "password_manage_app_pro",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
